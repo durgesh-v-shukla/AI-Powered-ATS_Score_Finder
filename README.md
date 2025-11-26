@@ -1,4 +1,4 @@
-# 🎯 ATS Score Finder
+# 🎯 AI-Powered ATS Score Finder
 
 > **AI-Powered Resume Analysis Tool** - Get your ATS compatibility score and optimize your resume for job applications
 
